@@ -1,12 +1,14 @@
-Raspberry PI module for controlling a network of sensors and gadgets on a D&D gaming table
+Raspberry PI module (Python 3) for controlling a network of sensors and gadgets on a D&D gaming table
+─────────────────────────────────────────────────────────────────────────────────────────────────────
 
-the module is designed to be inclusive of all needed code.  you don't need any 3rd party Raspberry PI
-python modules.  presently implemented is the standard GPIO bit twiddling, soon to be implemented are
-the I2C and SPI protocols. yes, i know RPio exists, but it doesn't have all the parts i want/need.
-further, the best way for me to learn the internals of the PI, are to write control methods myself.
+the module is designed to be inclusive of all needed code.  you don't need any 3rd
+party Raspberry PI python modules.  presently implemented is the standard GPIO bit
+twiddling, soon to be implemented are the I2C and SPI protocols.  yes, i know RPio
+exists, but it doesn't have all the parts i want/need.  further, the best way for
+me to learn the internals of the PI, are to write control methods myself.
 
-project was started for xmas of 2012. copyrighted 2012, david ford.  license, free for any use but
-_please_ release your code free to everyone. mention of me is nice, but i won't chop off your fingers
-if you don't.
+project was started for xmas of 2012. copyrighted 2012, david ford.  license, free
+for any use but _please_ release your code free to everyone. mention of me is nice,
+but i won't chop off your fingers if you don't.
 
 -david
